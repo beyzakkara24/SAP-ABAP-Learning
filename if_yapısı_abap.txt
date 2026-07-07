@@ -1,0 +1,32 @@
+*&---------------------------------------------------------------------*
+*& Report ZBK_EGT_0020
+*&---------------------------------------------------------------------*
+*&
+*&---------------------------------------------------------------------*
+REPORT ZBK_EGT_0020.
+
+DATA: gv_degs1 TYPE i,
+      gv_degs2 TYPE i.
+
+gv_degs1 = 90.
+gv_degs2 = 150.
+
+IF gv_desg1 > gv_des2.
+  WRITE: 'Birinci sayı byüktür!'.
+ENDIF.
+
+IF gv_degs < gv_degs2.
+  WRITE: 'İkinci sayı büyüktür!'.
+ENDIF.
+
+IF gv_degs1 = gv_degs2.
+  WRITE: 'İki sayı eşittir!'.
+ENDIF.
+
+IF gv_degs1 > gv_degs2.
+  WRITE: 'Birinci sayı büyüktür!'.
+ELSEIF gv_degs1 < gv_degs2.
+  WRITE: 'İkinci sayı büyüktür!'.
+ELSE.
+  WRITE: 'İki sayı eşit!'.
+ENDIF.
