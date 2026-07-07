@@ -12,14 +12,23 @@ Bu depo, SAP ABAP stajım boyunca geliştirdiğim örnek programları içermekte
 - Çarpma
 - Bölme
 - Değişken ( DATA)
-- WRITE komutu
-  ### Hedefim
-  SAP ABAP öğrenme sürecimde geliştirdiğim tüm örnekleri burada paylaşacağım.
+- WRITE kullanımı
+  ### IF Yapısı
+  - IF
+  - IF ELSE
+  - IF ELSEIF ELSE
+### CASE Yapısı
+   -CASE
+   - WHEN
+   - WHWN OTHERS
+### Döngüler
+- DO Döngüsü
+- WHILE Döngüsü
+ ### Hedefim
+ SAP ABAP öğrenmw süremcimde yaptıgım tüm örnekleri düzenli olarak bu depoda paylasarak gelişimimi takip etmek ve protföy oluşturmak.
+
+ 
+  
 
 
-
--
--
--
--
 
