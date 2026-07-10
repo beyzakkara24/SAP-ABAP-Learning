@@ -24,6 +24,15 @@ Bu depo, SAP ABAP stajım boyunca geliştirdiğim örnek programları içermekte
 ### Döngüler
 - DO Döngüsü
 - WHILE Döngüsü
+##Open SQL
+  Bu bölümde temel Open SQL komutlarını örnek bir ürün tablosu üzerinden uyguladım.
+- SELECT
+- SELECT SINGLE
+- INSERT
+- UPDATE
+- DELETE
+- MODIFY
+  
  ### Hedefim
  SAP ABAP öğrenmw süremcimde yaptıgım tüm örnekleri düzenli olarak bu depoda paylasarak gelişimimi takip etmek ve protföy oluşturmak.
 
