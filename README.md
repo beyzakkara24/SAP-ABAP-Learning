@@ -27,7 +27,8 @@ Bu depo, SAP ABAP stajım boyunca geliştirdiğim örnek programları içermekte
 
 
 ##Open SQL
-  Bu bölümde temel Open SQL komutlarını örnek bir ürün tablosu üzerinden uyguladım.
+
+ Bu bölümde temel Open SQL komutlarını örnek bir ürün tablosu üzerinden uyguladım.
 - SELECT
 - SELECT SINGLE
 - INSERT
