@@ -24,6 +24,8 @@ Bu depo, SAP ABAP stajım boyunca geliştirdiğim örnek programları içermekte
 ### Döngüler
 - DO Döngüsü
 - WHILE Döngüsü
+
+
 ##Open SQL
   Bu bölümde temel Open SQL komutlarını örnek bir ürün tablosu üzerinden uyguladım.
 - SELECT
