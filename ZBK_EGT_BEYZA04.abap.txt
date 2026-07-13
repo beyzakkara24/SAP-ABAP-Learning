@@ -1,0 +1,29 @@
+*&---------------------------------------------------------------------*
+*& Report ZBK_EGT_BEYZA04
+*&---------------------------------------------------------------------*
+*&
+*&---------------------------------------------------------------------*
+REPORT ZBK_EGT_BEYZA04.
+
+TABLES: zbt_urun_table.
+
+DATA: gv_urunadi TYPE zde_urun_adi,
+      gv_urunfıyat TYPE zde_fıyat.
+
+PARAMETERS: p_urunno TYPE zde_urun_no,
+            p_urunad TYPE zde_urun_adi.
+
+SELECT-OPTIONS: s_urunad FOR gv_urunadi.
+
+PARAMETERS: p_stok AS CHECKBOX.
+
+SELECTION-SCREEN BEGIN OF BLOCK b1 WITH FRAME TITLE TEXT-001.
+PARAMETERS: p_elec RADIOBUTTON GROUP gr1,
+            p_gida RADIOBUTTON GROUP gr1,
+            p_kozm RADIOBUTTON GROUP gr1.
+SELECTION-SCREEN END OF BLOCK b1.
+
+SELECTION-SCREEN BEGIN OF BLOCK b2 WITH FRAME TITLE TEXT-002.
+PARAMETERS: p_ucuz RADIOBUTTON GROUP gr2,
+            p_paha RADIOBUTTON GROUP gr2.
+SELECTION-SCREEN END OF BLOCK b2.
