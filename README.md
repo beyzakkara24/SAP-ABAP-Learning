@@ -41,6 +41,8 @@ Bu depo, SAP ABAP stajım boyunca geliştirdiğim örnek programları içermekte
 - MESSAGE TYPE S
 - MESSAGE TYPE W
 - MESSAGE TYPE E
+- DISPLAY LIKE
+- MESSAGE CLASS(SE91)
 
  ### Hedefim
  SAP ABAP öğrenmw süremcimde yaptıgım tüm örnekleri düzenli olarak bu depoda paylasarak gelişimimi takip etmek ve protföy oluşturmak.
