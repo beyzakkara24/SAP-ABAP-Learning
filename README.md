@@ -44,10 +44,19 @@ Bu depo, SAP ABAP stajım boyunca geliştirdiğim örnek programları içermekte
 - DISPLAY LIKE
 - MESSAGE CLASS(SE91)
 
- ### Hedefim
- SAP ABAP öğrenmw süremcimde yaptıgım tüm örnekleri düzenli olarak bu depoda paylasarak gelişimimi takip etmek ve protföy oluşturmak.
+ ### GUI STATUS 
+ Bu örnekte SAP GUI Status yapısını öğrendim.
+ İçerik:
+ - Menü Çubuğu (Menu Bar)
+ - Uygulama Araç Çubuğu ( Application Toolbar)
+ - İşlev Tuşları (Function Keys)
+ - SET PF-STATUS komutu
+ - USER_COMMAND modülü
+ - sy-ucomm ile basılan butonun yakalanması
+ - MESSAGE TYPE I ile kullanıcıya bilgi mesajı gösterme
 
- 
+Amaç:
+GUI ekranındaki butonları yönetmek ve kullanıcının hangi butona bastığını yakalayarak gerekli işlemleri gerçekleştirmek.
   
 
 
